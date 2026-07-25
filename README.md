@@ -69,7 +69,7 @@ Predict the **Air Quality Index (AQI)** instantly using **Random Forest Regressi
 aqi_prediction_regression/
 │
 ├── app.py
-├── rf_model.pkl
+├── aqi_model.pkl
 ├── location_encoder.pkl
 ├── AQI_Dataset.xlsx
 ├── requirements.txt
