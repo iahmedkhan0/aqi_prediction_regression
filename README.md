@@ -71,7 +71,7 @@ aqi_prediction_regression/
 ├── app.py
 ├── aqi_model.pkl
 ├── location_encoder.pkl
-├── AQI_Dataset.xlsx
+├── 16_air_quality_prediction.csv
 ├── requirements.txt
 ├── README.md
 │
