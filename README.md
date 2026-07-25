@@ -18,17 +18,6 @@
 
 </div>
 
-# 📸 Application Preview
-
-> *(Add your Streamlit Screenshot here)*
-
-```
-images/
-   └── preview.png
-```
-
----
-
 # ✨ Features
 
 ✅ Beautiful Streamlit Interface
