@@ -76,7 +76,7 @@ aqi_prediction_regression/
 ├── README.md
 │
 └── notebooks/
-    └── AQI_Model.ipynb
+    └── AQI_PREDICTION_USING_REGRESSION.ipynb
 ```
 
 ---
